@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# You can use mine Api key or Create your very own Key as well.
+
+A very simple web application to fetch the latest tech news from the new york times website. Automatically fetches the latest news and displays it in real-time without any user intervention.
+---
+## It's Live 🎉 Visit here ==>https://technews-nytimes.netlify.app/
+---
+![latestTechNews](https://user-images.githubusercontent.com/37651620/91543184-1c48d200-e93e-11ea-85e4-6d97b264413c.png)
+---
+
 
 ## Available Scripts
 
